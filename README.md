@@ -2,8 +2,7 @@
 🫗 I’m currently working on a Pint Price Tracker<br>
 💻 Computer Science Student sharing my path and projects<br>
 📊 Currently learning Data Analytics and AI <br>
-🔍 Fun Fact: To fails is to learn<br>
- <br>
+🔍 Fun Fact: To fail is to learn<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ignacio Alarcon) 
