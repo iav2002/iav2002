@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ignacioalarcon/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>&emsp;<a href="#" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=flat" alt="Portfolio" height="30"/></a>
+<a href="https://www.linkedin.com/in/ignacioalarcon/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>&emsp;<a href="#" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=flat" alt="Portfolio" height="30"/></a>
 </p>
 
 <hr/>
@@ -54,13 +54,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iav2002&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-</div>
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iav2002&theme=flat&no-frame=true&column=6&margin-w=15" alt="trophy" />
-  </a>
 </div>
 
 <div align="center">
