@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignacio!</h1>
 <h3 align="center">MSc Data Science Student at TUD Dublin | AWS Certified Cloud Practitioner</h3>
-<h4 align="center">BSc Computer Science Graduate (Dublin)</h4>
+<h4 align="center">BSc Computer Science Graduate @CCT Dublin</h4>
 
 <p align="center">
   <i>A passionate software developer from Bolivia 🇧🇴 living in Ireland 🇮🇪 for the last 5 years.</i>
@@ -18,7 +18,7 @@
   </a>
   &nbsp;
   <a href="#" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?logo=google-chrome&logoColor=white" alt="Website" height="30"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg" alt="Website" height="30"/>
   </a>
 </p>
 
@@ -60,7 +60,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iav2002&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=iav2002&theme=shadow_blue&hide_border=false" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=iav2002&theme=shadow_blue" height="150" alt="streak graph" />
+  </a>
 </div>
 
 <div align="center">
