@@ -13,7 +13,13 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ignacio-alarcon-944061181/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="ignacio-alarcon" height="30" width="100" /></a>
+  <a href="https://www.linkedin.com/in/ignacioalarcon/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  &nbsp;
+  <a href="#" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?logo=google-chrome&logoColor=white" alt="Website" height="30"/>
+  </a>
 </p>
 
 <hr/>
@@ -54,7 +60,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iav2002&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iav2002&theme=shadow_blue&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=iav2002&theme=shadow_blue&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
