@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/ignacioalarcon/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  &nbsp;
+  <img src="https://raw.githubusercontent.com/guru-f/readme/master/assets/trans.png" width="10" height="1"/>
   <a href="#" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-%23121011.svg" alt="Website" height="30"/>
   </a>
@@ -60,8 +60,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iav2002&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=iav2002&theme=shadow_blue" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iav2002&theme=flat&no-frame=true&column=6&margin-w=10" alt="trophy" />
   </a>
 </div>
 
