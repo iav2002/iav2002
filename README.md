@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ignacio!</h1>
 <h3 align="center">MSc Data Science Student at TUD Dublin | AWS Certified Cloud Practitioner</h3>
+<h4 align="center">BSc Computer Science Graduate (Dublin)</h4>
 
 <p align="center">
   <i>A passionate software developer from Bolivia 🇧🇴 living in Ireland 🇮🇪 for the last 5 years.</i>
@@ -7,9 +8,8 @@
 
 <p align="center">
   🔭 <b>Currently working on:</b> A Pint Price Tracker<br>
-  🎓 <b>Current Goal:</b> Mastering Data Science & AI at TUD Dublin<br>
-  ♟️ <b>Hobbies:</b> Chess, Football, and Investment Strategies<br>
-  🌱 <b>Fun Fact:</b> To fail is to learn
+  🎓 <b>Current Goal:</b> Mastering Data Science & AI<br>
+  ♟️ <b>Hobbies:</b> Chess, Football, and Investment Strategies
 </p>
 
 <p align="center">
@@ -23,7 +23,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
