@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ignacio!</h1>
-<h3 align="center">MSc Data Science Student at TUD Dublin | AWS Certified Cloud Practitioner</h3>
+<h3 align="center">MSc Data Science Student at TUD Dublin</h3>
 <h4 align="center">BSc Computer Science Graduate @CCT Dublin</h4>
 
 <p align="center">
-  <i>A passionate software developer from Bolivia 🇧🇴 living in Ireland 🇮🇪 for the last 5 years.</i>
+  <i>A passionate software developer from Bolivia 🇧🇴 living in Ireland 🇮🇪 for the last 5 years. </i>
 </p>
 
 <p align="center">
-  🔭 <b>Currently working on:</b> A Pint Price Tracker<br>
+  🔭 <b>Currently working on:</b> Bank statement parser WebApplication<br>
   🎓 <b>Current Goal:</b> Mastering Data Science & AI<br>
   ♟️ <b>Hobbies:</b> Chess, Football, and Investment Strategies
 </p>
